@@ -2,8 +2,8 @@
 body{
 	background-color: #ffffff;
 }
-.contain { text-align:left;}
-.authname{ text-align:left; color: #777777; }
+.contain { text-align:left; padding: 0%;}
+.authname{ text-align:left; color: #777777; padding: 0%;}
 .pricebtn{
 	width: 100%;
 	background-color: #2ecc71;
@@ -18,9 +18,10 @@ body{
 .book-library{
 	width: 100%;
 	text-align: center;
-	background-color: #f8f8f8;
+	/* background-color: #f8f8f8; */
 }
 .book{
-padding-top: 10%;	
-	
+	margin-top: 20px;
+padding-top: 5%;	
+	background-color: #f8f8f8;
 }
