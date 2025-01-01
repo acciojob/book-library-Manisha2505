@@ -10,18 +10,18 @@ body{
 	border: none;
 	color: white;
 }
-#title{
+#title {
 	text-align: center;
 	width: 100%;
 }
-.book-library{
+.book-library {
 	width: 100%;
 	box-shadow: 100%;
 	text-align: center;
 	background-color: #ffffff; /* Add this line */
 }
 .book{
-	margin-top: 20px;
+	margin-top: 10px;
 	padding-top: 5%;	
 	background-color: #f8f8f8; /* Add this line */
 }
