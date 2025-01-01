@@ -16,7 +16,7 @@ body{
 }
 .book-library{
 	width: 100%;
-	box-shadow: 100px;
+	box-shadow: 100%;
 	text-align: center;
 	background-color: #ffffff; /* Add this line */
 }
@@ -24,4 +24,7 @@ body{
 	margin-top: 20px;
 	padding-top: 5%;	
 	background-color: #f8f8f8; /* Add this line */
+}
+#title{
+	background-color: #f8f8f8;
 }
