@@ -19,11 +19,11 @@ body{
 	width: 100%;
 }
 .book-library{
-	padding-top: 10%;
+	/* padding-top: 10%; */
 	width: 100%;
 	text-align: center;
 	background-color: #ffffff;
 }
-/* .bookdiv{
-	background-color: black;
-} */
+.book{
+padding-top: 10%;	
+}
