@@ -6,12 +6,13 @@ body{
 .authname{ text-align:left; color: #777777; padding: 0%;}
 .pricebtn{
 	width: 100%;
+	padding: 10px;
 	background-color: #2ecc71;
 	border: none;
 	color: white;
 	
 }
-#main{
+#title{
 	text-align: center;
 	width: 100%;
 }
